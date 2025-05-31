@@ -1,2 +1,3 @@
 # ping-pong
-a simple game
+
+a simple ping-pong game
